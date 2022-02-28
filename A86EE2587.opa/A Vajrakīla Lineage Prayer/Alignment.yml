@@ -1,0 +1,34 @@
+segment_sources:
+  PF4CDADAC:
+    type: origin_type
+    relation: translation
+    language: en
+  PA8F14881:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  219017fd749842ceb64b4701d3aed0e8:
+    PF4CDADAC: 7ccceb31247b416daed3bb4166c129dd
+    PA8F14881: 874f3dfaa47f4b5897a25204058db2b9
+  f41c952122e744aebfdf0936ea33285b:
+    PF4CDADAC: b86f514ae49a4078b80dff48e78a538b
+    PA8F14881: 4327e9bf5ca6496598e3f14864e0af20
+  58e3f4e6561a4b4e9fadc50d3c939fb8:
+    PF4CDADAC: 1261e3fee7c243c8bcdda567183da48b
+    PA8F14881: 4fed385b2e1042148b39c0c1cef9aa41
+  2f3febfa14034d229416ae020ccf086b:
+    PF4CDADAC: d9dda59220d54c478698c2c524d13957
+    PA8F14881: 837038bfadb142a3a9af60b6ebd50162
+  98414685410249bfbf5bff8f781c7d8f:
+    PF4CDADAC: ddb998d872514046a230d0e88b7abb93
+    PA8F14881: e4971577e19d45caaa1d54f995e8eefa
+  ff0d416326304a968025614484e0f39c:
+    PF4CDADAC: 6d5c63a5a5af45b2aefa3f4d0cd3b20e
+    PA8F14881: 79238b3f734d4f31a07dee74ee98433b
+  95fd4aec94b346d5b84da47edd952712:
+    PF4CDADAC: e5aa2311e31b4ec48175836535f134cf
+    PA8F14881: 02492e08fa5c4f8988cf34418ceb256a
+  9d11aec4067f4d8b88387081c7692ebd:
+    PF4CDADAC: 3d6dd39e85d54dc2b2ce53bf478d428b
+    PA8F14881: 7c72c673ca9a4569a4b2bcc36e84bf18

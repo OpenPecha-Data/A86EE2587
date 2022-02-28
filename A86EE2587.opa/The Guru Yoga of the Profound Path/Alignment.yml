@@ -1,0 +1,19 @@
+segment_sources:
+  PF4CDADAC:
+    type: origin_type
+    relation: translation
+    language: en
+  PA8F14881:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  00993eb5f64c4c15a7d862a231146e7d:
+    PF4CDADAC: f8b933e5abe8430088d2873949f2a19c
+    PA8F14881: 3cd34d37341243d0908d08839c9e4a1f
+  c65c88c2c80546038a49dd5a05bf12f3:
+    PF4CDADAC: 76a2b7550f47457b9546728f632205e0
+    PA8F14881: 383e13cf09f84e2aa0de8c4beda48780
+  78a955b992874d4a9c3cd16247088835:
+    PF4CDADAC: c9400ce85b0740f79267fb2df3c981a2
+    PA8F14881: d87c9b3d88644b44be037b59fcf9ea34

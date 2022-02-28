@@ -1,0 +1,40 @@
+segment_sources:
+  PF4CDADAC:
+    type: origin_type
+    relation: translation
+    language: en
+  PDF0A793A:
+    type: origin_type
+    relation: translation
+    language: de
+  P10DF2828:
+    type: origin_type
+    relation: translation
+    language: fr
+  P58AAB6BE:
+    type: origin_type
+    relation: translation
+    language: zh
+  PA8F14881:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  8a441f52b7c54904b3144e2f12cdd3ef:
+    PF4CDADAC: 6b9e9df82af7452fa3228a4d362d53af
+    PDF0A793A: 50c50c01259948a289d74aea309f4b2b
+    P10DF2828: b2bd7797dbbe45808dc52012acb03ef3
+    P58AAB6BE: 40086026299d43a6859c914a51b14247
+    PA8F14881: c0eb6e1993264283b86c309f47ff9a1e
+  6112632158ae476d91752a4efb1be862:
+    PF4CDADAC: 6752c4091bdc459a8b9e9bc5ae9f88c2
+    PDF0A793A: 6d225c547f5c47b390d61bb1d59c2ff4
+    P10DF2828: 56c3be2b25f34fa5905930fea4eadded
+    P58AAB6BE: f98a2d30207e4aaba0e9de42dbee8b74
+    PA8F14881: 21af10850d2d4ea88f9cc2d2632ba051
+  2d72712f46a34dac9773b86a00e28a44:
+    PF4CDADAC: 2dd4cd544dba455f9bd13167c1d1f5a3
+    PDF0A793A: 7748021c426b4cef9d9dc46202644069
+    P10DF2828: b65f95f0ceca4fffa58f9571787bbab4
+    P58AAB6BE: 45584b83130c47b28c2d5e627948ff28
+    PA8F14881: df05eeb3f624472884efae88e5d039ca
